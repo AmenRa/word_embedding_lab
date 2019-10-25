@@ -1,0 +1,13 @@
+name: word_embedding_lab
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - gensim
+  - matplotlib
+  - time
+  - numpy
+  - pandas
+  - scikit-learn
+  - plotly
